@@ -4,7 +4,7 @@
 ### 1. Clone repo
 
 ```
-$ git clone 
+$ git clone https://github.com/shrimanm/Full-stack-E-commerce-website-using-MERN.git
 $ cd mern-amazona
 ```
 
