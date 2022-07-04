@@ -4,7 +4,7 @@
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/mern-amazona.git
+$ git clone 
 $ cd mern-amazona
 ```
 
